@@ -6,6 +6,7 @@ This was a project I created about 2 years ago (2018) when I was experimenting w
 # Binary Dependencies
 
 timidity (apt-get install timidity)
+
 sox      (apt-get install sox)
 
 Timidity is used for converting midi files to wav files, and sox is used for playing wav files over the command line.
@@ -13,7 +14,9 @@ Timidity is used for converting midi files to wav files, and sox is used for pla
 # NodeJS Dependencies
 
 jsmidgen     (npm install --save jsmidgen)
+
 node-run-cmd (npm install --save node-run-cmd)
+
 scribbletune (npm install --save scribbletune)
 
 # Platform
