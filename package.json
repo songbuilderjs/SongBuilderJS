@@ -1,0 +1,30 @@
+{
+  "name": "songbuilderjs",
+  "version": "1.0.0",
+  "description": "Library for building multi-track songs using nodejs.",
+  "main": "SongBuilderJS.defaultproject.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songbuilderjs/SongBuilderJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "songs",
+    "music",
+    "multitrack"
+  ],
+  "author": "JM",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "bugs": {
+    "url": "https://github.com/songbuilderjs/SongBuilderJS/issues"
+  },
+  "homepage": "https://github.com/songbuilderjs/SongBuilderJS#readme",
+  "dependencies": {
+    "jsmidgen": "^0.1.5",
+    "node-run-cmd": "^1.0.1",
+    "scribbletune": "^3.6.1"
+  }
+}

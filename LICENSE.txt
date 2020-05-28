@@ -1,0 +1,5 @@
+This software is free to use for all non-commercial purposes.  
+
+This software is provided with no warranty, or guarantee.
+
+All dependencies exist under their own licenses, from their own authors.
